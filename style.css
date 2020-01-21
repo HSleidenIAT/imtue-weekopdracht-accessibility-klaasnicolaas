@@ -155,6 +155,10 @@ th[scope="col"] {
   border-bottom: 1px solid black;
 }
 
+th[scope="row"] {
+  border-right: 1px solid black;
+}
+
 tbody tr:nth-child(odd) {
   background-color: #def;
 }
